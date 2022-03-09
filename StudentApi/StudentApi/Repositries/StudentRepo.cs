@@ -46,6 +46,6 @@ namespace StudentApi.Repositries
         {
             return _db.Students.ToList();
         }
-        //try github
+        
     }
 }
