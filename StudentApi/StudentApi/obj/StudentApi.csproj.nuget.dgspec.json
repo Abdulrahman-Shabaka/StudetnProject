@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/StudentApi.csproj": {}
+    "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/StudentApi.csproj": {}
   },
   "projects": {
-    "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/StudentApi.csproj": {
+    "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/StudentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/StudentApi.csproj",
+        "projectUniqueName": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/StudentApi.csproj",
         "projectName": "StudentApi",
-        "projectPath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/StudentApi.csproj",
+        "projectPath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/StudentApi.csproj",
         "packagesPath": "/Users/abdulrahmanshabaka/.nuget/packages/",
-        "outputPath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/obj/",
+        "outputPath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/abdulrahmanshabaka/.nuget/NuGet/NuGet.Config"
+          "/Users/abdulrahmanshabaka/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

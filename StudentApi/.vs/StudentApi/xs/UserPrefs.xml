@@ -2,15 +2,15 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentApi/Repositries/StudentRepo.cs">
     <Files>
       <File FileName="StudentApi/Models/Student.cs" Line="10" Column="6" />
-      <File FileName="StudentApi/StudentContext.cs" Line="13" Column="16" />
-      <File FileName="StudentApi/appsettings.json" Line="14" Column="1" />
-      <File FileName="StudentApi/Startup.cs" Line="35" Column="40" />
-      <File FileName="StudentApi/Migrations/20220309202447_init.cs" Line="21" Column="10" />
-      <File FileName="StudentApi/Controllers/WeatherForecastController.cs" Line="11" Column="28" />
-      <File FileName="StudentApi/Controllers/StudentController.cs" Line="35" Column="43" />
-      <File FileName="StudentApi/Interfaces/IStudent.cs" Line="7" Column="30" />
-      <File FileName="StudentApi/Repositries/StudentRepo.cs" Line="21" Column="1" />
-      <File FileName="StudentApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="StudentApi/StudentContext.cs" />
+      <File FileName="StudentApi/appsettings.json" />
+      <File FileName="StudentApi/Startup.cs" />
+      <File FileName="StudentApi/Migrations/20220309202447_init.cs" />
+      <File FileName="StudentApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="StudentApi/Controllers/StudentController.cs" />
+      <File FileName="StudentApi/Interfaces/IStudent.cs" />
+      <File FileName="StudentApi/Repositries/StudentRepo.cs" Line="49" Column="1" />
+      <File FileName="StudentApi/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

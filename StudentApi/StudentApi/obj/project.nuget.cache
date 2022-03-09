@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjSYnEqwFl8TzY5TdvAgKgBvvvmjYLIwQq9SBs/Bi6wtSisUSqguRaAegZiHzdRhkZOvunr/nkuxKrtdRN5Hcg==",
+  "dgSpecHash": "ntCCXKLcjszcm7df0rnX5UnF0ZaS7uMnDTlm3Ti6k40l5w5hv2SSfDBWcQdd8SOYIuEUucLyehOk/fgy7wlgYg==",
   "success": true,
-  "projectFilePath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudentApi/StudentApi/StudentApi.csproj",
+  "projectFilePath": "/Users/abdulrahmanshabaka/InternalStorage/projects/Learn/dotnet/API/StudetnProject/StudentApi/StudentApi/StudentApi.csproj",
   "expectedPackageFiles": [
     "/Users/abdulrahmanshabaka/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/abdulrahmanshabaka/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
